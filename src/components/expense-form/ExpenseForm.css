@@ -1,0 +1,59 @@
+/* .allForm{
+   border: 2px;
+}
+.allForm button {
+   margin-left: 50%;
+   display: flex;
+   flex-direction: row;
+} */
+
+.nameOfLabel{
+    margin-left: 25px;
+}
+.nameOfPrice{
+    margin-left: 400px;
+    margin-top: -80px;
+}
+.nameOfDate{
+    margin-left: 25px;
+    margin-top: 18px;
+}
+.cencelled{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px 18px;
+    gap: 10px;
+    color: black;
+    position: absolute;
+    width: 97px;
+    height: 51px;
+    left: 200px;
+    top: 80px;  
+    background: #4A026B;
+    border-radius: 10px;
+}
+.Saived{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px 18px;
+    gap: 10px;
+    color: black;
+    position: absolute;
+    width: 97px;
+    height: 51px;
+    left: 350px;
+    top: 80px;
+    
+    background: #4A026B;
+    border-radius: 10px;
+}
+.Saived:hover{
+    color: white;
+    border: 3px solid white;
+}
+.cencelled:hover{
+    color: white;
+    border: 3px solid white;
+}

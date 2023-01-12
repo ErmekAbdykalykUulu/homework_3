@@ -1,0 +1,22 @@
+.NewExpenses{
+    position: absolute;
+    width: 780px;
+    height: 287px;
+    left: 330px;
+    top: 241px;
+    background: #AD9BE9;
+    border-radius: 12px;
+   
+}
+.NewExpenses button {
+    
+    margin-left: 37%;
+    margin-top: 17%;
+}
+.NewExpenses button:hover {
+    color: white;
+   box-shadow: 10px 10px 10px 10px white;
+   
+}
+
+

@@ -1,0 +1,12 @@
+.ul{
+    position: absolute;
+    width: 740px;
+    /* height: 100%; */
+    left: 330px;
+    top: 549px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background: #1F1F1F;
+    border-radius: 12px;
+    
+}
